@@ -1,3 +1,3 @@
 # QuoteMediaDDdB
 A additional Soundpackage for wowQuote2 or KQuote.
-Place in WOW Addon Folder. opebn with /wq 
+Place in WOW Addon Folder. open with /wq 
