@@ -1,0 +1,14 @@
+﻿## Title: QuoteMedia DDdB
+## Version: 1.3
+## Notes: Media package for KQuote and WoWQuote2
+## Notes-deDE: MediaAddon für KQuote und WoWQuote2
+## Interface: 40000
+##
+## Author: MacKay@Eu-Azshara
+##
+## OptionalDeps: WoWQuote2, KQuote
+##
+
+
+
+MediaDDdB.lua
