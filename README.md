@@ -2,10 +2,10 @@
 A additional Soundpackage for wowQuote2 or KQuote.
 Place in WOW Addon Folder. open with /wq 
 
-New Version: v. 1.3 -----------------
+Version: v1.3.1 -------------
++ 3 quotes
+Version: v. 1.3 -----------------
 + Compatibility for 7.2.5
-
-
 Version: v. 1.2 -----------------
 + Compatibility for KQuote 1.4 added,
 + some more quotes added,

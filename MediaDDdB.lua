@@ -399,8 +399,27 @@ function QuoteMediaDDdB_Init()
     msg = "Dr Sheldon Cooper MD",
 	tag = {"Dachs", "DDdB",},
 },
-
-
+{
+    id = "DDdB:051",
+    file = "valar_morghulis.mp3",
+    len = 2,											-- length in seconds
+    msg = "GoT: Valar Morghulis",
+	tag = {"got", "DDdB",},
+},
+{
+    id = "DDdB:052",
+    file = "game_of_thrones.mp3",
+    len = 27,											-- length in seconds
+    msg = "GoT: Theme",
+	tag = {"got", "DDdB",},
+},
+{
+    id = "DDdB:053",
+    file = "star_wars.mp3",
+    len = 18,											-- length in seconds
+    msg = "Star Wars Theme",
+	tag = {"sw", "DDdB",},
+},
 -- end of media data
 };
 end 
