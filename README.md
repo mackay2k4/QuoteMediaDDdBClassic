@@ -2,6 +2,8 @@
 A additional Soundpackage for wowQuote2 or KQuote.
 Place in WOW Addon Folder. open with /wq 
 
+Version: v1.3.3 -------------
++ some little spelling mistakes fixed
 Version: v1.3.2 -------------
 + 3 quotes
 Version: v. 1.3 -----------------
@@ -16,4 +18,4 @@ agenda for next version:
 - more quotes
 -----------------
 regards
-MacKay @ Eu-Azshara and "Die Dachse des Bösen" - Guild
+Mackay @ Eu-Azshara and "Die Dachse des Bösen" - Guild

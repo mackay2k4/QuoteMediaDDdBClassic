@@ -340,7 +340,7 @@ function QuoteMediaDDdB_Init()
     id = "DDdB:042",
     file = "EndOfWow.mp3",
     len = 18,											-- length in seconds
-    msg = "It's the end of Wolrd of Warcraft *täller*",
+    msg = "It's the end of Wolrd of Warcraft *träller*",
 	tag = {"music",},
 },
 {
