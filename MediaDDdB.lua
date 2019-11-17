@@ -1,12 +1,12 @@
-local moduleName = "QuoteMediaDDdB";
+local moduleName = "QuoteMediaDDdBClassic";
 local moduleid = "DDdB";
 local moduleData = nil;
-local frame = CreateFrame("Frame", "QuoteMediaDDdBFakeFrame");
+local frame = CreateFrame("Frame", "QuoteMediaDDdBClassicFakeFrame");
 
-function QuoteMediaDDdB_OnEvent(this, event, arg1, arg2, arg3, arg4, ...)
+function QuoteMediaDDdBClassic_OnEvent(this, event, arg1, arg2, arg3, arg4, ...)
     if ((event == "ADDON_LOADED") and (arg1 == moduleName)) then
         if (IsAddOnLoaded("WoWQuote2") or IsAddOnLoaded("KQuote")) then
-            QuoteMediaDDdB_Init();
+            QuoteMediaDDdBClassic_Init();
             if (IsAddOnLoaded("WoWQuote2")) then
                 WQ2_InitModule(moduleData);
             end
@@ -20,10 +20,10 @@ function QuoteMediaDDdB_OnEvent(this, event, arg1, arg2, arg3, arg4, ...)
     end
 end
 
-frame:SetScript("OnEvent", QuoteMediaDDdB_OnEvent);
+frame:SetScript("OnEvent", QuoteMediaDDdBClassic_OnEvent);
 frame:RegisterEvent("ADDON_LOADED");
 
-function QuoteMediaDDdB_Init()
+function QuoteMediaDDdBClassic_Init()
     DEFAULT_CHAT_FRAME:AddMessage(moduleName.." loaded.");
     moduleData = {
 		name = "DieDachseDesBösen",
