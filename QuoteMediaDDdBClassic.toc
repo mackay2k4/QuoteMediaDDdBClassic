@@ -1,12 +1,12 @@
-﻿## Title: QuoteMedia DDdB
+﻿## Title: QuoteMedia DDdB for Classic
 ## Version: 1.3.3
 ## Notes: Media package for KQuote and WoWQuote2
 ## Notes-deDE: MediaAddon für KQuote und WoWQuote2
-## Interface: 70200
+## Interface: 11302
 ##
 ## Author: Mackay@Eu-Azshara
 ##
-## OptionalDeps: WoWQuote2, KQuote
+## OptionalDeps: WoWQuote2.2, KQuote
 ##
 
 
